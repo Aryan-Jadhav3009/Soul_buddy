@@ -6,7 +6,7 @@ import json
 BASE_API_URL = "https://api.langflow.astra.datastax.com"
 LANGFLOW_ID = "04a145b8-3775-4f9c-b652-897bdfa67625"
 FLOW_ID = "31d485c6-2bad-4851-9f5a-4b4b1fd8861d"
-APPLICATION_TOKEN = "AstraCS:bQWiroMuabYKTYKZqeTZzUrq:38ae4f42fb03ece70efb2c7c3faf1a2dd0397fdcf95528c1f9ad6e59bf8ed8d5"
+APPLICATION_TOKEN = "application_token"
 ENDPOINT = ""  # Optional: Specific endpoint name if configured
 TWEAKS = {
     "ChatInput-VM31v": {},
