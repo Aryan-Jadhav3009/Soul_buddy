@@ -61,6 +61,8 @@ The Streamlit UI consists of:
 - An action button to trigger the API call and display the results.
 - Error handling if any required fields are missing or if an error occurs during the API call.
 
+yt: https://www.youtube.com/watch?v=aLScFLPVpAs
+
 ### Example Flow
 - The user enters their details (Name, Date of Birth, etc.).
 - They click "Get Your Spiritual Guidance."
